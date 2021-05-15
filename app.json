@@ -1,9 +1,9 @@
 {
-  "name":"Javes-3.0",
+  "name":"HyperShroudX",
   "description": "Dont forget to read instructions on top of each box",
   "logo": "https://telegra.ph/file/8e5138dfc400730a2396c.jpg",
   "keywords": ["telegram","upgraded","moded","javes","userbot","javes-3.0"],
-  "repository": "https://github.com/Sh1vam/javes-3.0",
+  "repository": "https://github.com/HyperNotShroudX97/HyperShroudX",
   "addons": [
     {
       "plan": "heroku-postgresql",
